@@ -21,4 +21,4 @@ How do I use the Chat Logger?
 --------------------------------
 
 If you need any further assistance, message the Latitude Design bot by joining our discord server. 
-https://discord.gg/U4bjRWN
+https://discord.gg/latitude
